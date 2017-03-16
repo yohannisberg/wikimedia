@@ -1,0 +1,36 @@
+
+
+body{
+  font-family: "Open Sans";
+  font-size: 18px;
+}
+
+.pix{
+  display: flex;
+  flex-wrap:wrap;
+justify-content: space-between;
+align-items: center;
+margin-top: 50px;
+}
+
+.bold{
+  font-weight: bold;
+}
+
+.right{
+  text-align: right;
+}
+ .wrapper{
+   margin:40px 100px 20px 100px;
+ }
+
+ /*
+ .thumbn{
+   width:25%;
+    }
+
+    */
+
+    a{
+text-decoration:none;
+}
